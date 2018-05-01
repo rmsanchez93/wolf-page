@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    
+    margin: 0 auto;
+    max-width: 960px;
+    margin: 0 auto;
+
+}
+
+.container{
+    width: 900px;
+    
+}
+
+p{
+    text-align: center;
+    color: beige;
+}
+
+#woof{
+    float: left;
+    margin: 10px;
+}
+
